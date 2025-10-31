@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'>
+<defs><style>.bg{fill:#1e2f3f}.border{fill:none;stroke:white;stroke-width:8}.text{fill:white;font-family:Arial;font-weight:bold}.orange{fill:#ff6633}</style></defs>
+<circle cx='200' cy='100' r='85' class='border'/>
+<circle cx='200' cy='100' r='81' class='bg'/>
+<text x='200' y='105' text-anchor='middle' class='text' font-size='36'>hvp</text>
+<text x='200' y='140' text-anchor='middle' font-size='20' class='orange'>plumbing</text>
+</svg>
